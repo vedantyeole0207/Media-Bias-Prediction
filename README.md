@@ -200,18 +200,6 @@ Open `Political_Media_Bias.ipynb` and run the cells in order.
 
    * Document source of `political_social_media.csv` and any licensing constraints.
 
----
-
-## Files you should include in the GitHub repo
-
-* `Political_Media_Bias.ipynb` (the notebook itself)
-* `political_social_media.csv` (if allowed; otherwise provide instructions to download or a small sample)
-* `README.md` (a shorter version of this report)
-* `requirements.txt`
-* `inference.py` or `app.py` (optional: scripts for batch inference or serving)
-
----
-
 ## Final notes
 
 * The notebook provides a clean, readable comparison between TF–IDF-based classical pipelines and a transformer approach. The conclusion that **BERT works better** is consistent with expectations for tasks requiring semantic/contextual understanding.
