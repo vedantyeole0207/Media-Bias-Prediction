@@ -215,12 +215,3 @@ Open `Political_Media_Bias.ipynb` and run the cells in order.
 ## Final notes
 
 * The notebook provides a clean, readable comparison between TF–IDF-based classical pipelines and a transformer approach. The conclusion that **BERT works better** is consistent with expectations for tasks requiring semantic/contextual understanding.
-* To make this GitHub-ready, consider adding `requirements.txt`, a short `README.md` (with quick start), and possibly a small `examples/` folder with sample inputs and outputs.
-
-If you want, I can:
-
-* generate a polished `README.md` file from this report,
-* produce a `requirements.txt` pinned to sensible versions,
-* or open the notebook and extract exact numeric results and plots and add them into the report.
-
-Which of these would you like me to do next? (I'll proceed right away.)
